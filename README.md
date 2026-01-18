@@ -133,11 +133,3 @@ Happy coding 🚀
 Feel free to fork, break things, and learn deeply.
 
 ---
-
-If you want next:
-
-* 🔥 A **portfolio-ready README**
-* 🧠 Add **architecture diagrams**
-* 💼 Make this **placement-friendly**
-
-Just say the word 😄
