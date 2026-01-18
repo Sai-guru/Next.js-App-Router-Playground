@@ -1,0 +1,18 @@
+
+Prerequisite : React Js/Ts practice and concepts...
+
+---------this folder was about ---------------
+
+Metadata and Fonts in dynamic way..
+
+CSR and SSR 
+
+Route grouping
+
+Dynamic routing
+
+SSG- Static Site Generation
+
+ISR- Incremental Static Regeneration
+
+API routes
